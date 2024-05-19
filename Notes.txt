@@ -1,0 +1,16 @@
+react-native-vector-icons [npm]
+
+TicTacToe winning logic video -> https://www.youtube.com/watch?v=qU_gdQ1FvjM
+
+Array fill -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill
+
+
+// Example 2: Using includes() with arrays
+var arr = [1, 2, 3, 4, 5];
+var num = 3;
+
+if (arr.includes(num)) {
+  console.log("The array contains the number.");
+} else {
+  console.log("The array does not contain the number.");
+}
